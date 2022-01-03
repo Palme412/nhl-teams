@@ -9,31 +9,26 @@ class Teams extends Component {
                     <div className="hero-body">
                         <div className="container has-text-centered">
                             <p className="title">
-                                NHL Teams
+                                National Hockey Leage
                             </p>
                             <p className="subtitle">
-                                Subtitle
+                                Teams
                             </p>
                         </div>
                     </div>
                 </section>
-                <div className="box cta">
-                    <p className="has-text-centered">
-                        <span className="tag is-primary">New</span> Here we have modal cards. When you click on them they will open functional modal examples.
-                    </p>
-                </div>
                 <section className="container">
                     <div className="columns features">
                         <div className="column is-4">
                             <div className="card is-shady">
                                 <div className="card-image">
                                     <figure className="image is-4by3">
-                                        <img src="https://source.unsplash.com/RWnpyGtY1aU" alt="Placeholder image" className="modal-button" data-target="modal-image2" />
+                                        <img src="https://cms.nhl.bamgrid.com/images/photos/319353328/1200x630/cut.jpg" alt="Washington Capitals" />
                                     </figure>
                                 </div>
                                 <div className="card-content">
                                     <div className="content">
-                                        <h4>Click on image above</h4>
+                                        <h4>Washington Capitals</h4>
                                         <p>Purus semper eget duis at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
                                         <span className="button is-link modal-button" data-target="modal-image2">Image modal</span>
                                     </div>
@@ -44,12 +39,12 @@ class Teams extends Component {
                             <div className="card is-shady">
                                 <div className="card-image">
                                     <figure className="image is-4by3">
-                                        <img src="https://source.unsplash.com/6Ticnhs1AG0" alt="Placeholder image" />
+                                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Detroit_Red_Wings_logo.svg/1200px-Detroit_Red_Wings_logo.svg.png" alt="Detroit Red Wings" />
                                     </figure>
                                 </div>
                                 <div className="card-content">
                                     <div className="content">
-                                        <h4>Tempor orci dapibus faber in.</h4>
+                                        <h4>Detroit Red Wings</h4>
                                         <p>Ut venenatis tellus in metus vulputate. Amet consectetur adipiscing elit pellentesque. Sed arcu non odio euismod lacinia at quis risus. Faucibus turpis in eu mi bibendum neque egestas cmonsu songue. Phasellus vestibulum lorem
                                             sed risus.</p>
                                         <span className="button is-link modal-button" data-target="modal-card">Modal Card</span>
@@ -61,12 +56,12 @@ class Teams extends Component {
                             <div className="card is-shady">
                                 <div className="card-image">
                                     <figure className="image is-4by3">
-                                        <img src="https://res.cloudinary.com/ameo/image/upload/v1568711475/pexels-photo-1302883_fjje0f.jpg" alt="Placeholder image" />
+                                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Minnesota_Wild.svg/1200px-Minnesota_Wild.svg.png" alt="Minnesota Wild" />
                                     </figure>
                                 </div>
                                 <div className="card-content">
                                     <div className="content">
-                                        <h4>Click anywhere on card</h4>
+                                        <h4>Minnesota Wild</h4>
                                         <p>Imperdiet dui accumsan sit amet nulla facilisi morbi. Fusce ut placerat orci nulla pellentesque dignissim enim. Libero id faucibus nisl tincidunt eget nullam. Commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                         <span className="button is-link modal-button" data-target="modal-image">Image modal</span>
                                     </div>
@@ -79,12 +74,12 @@ class Teams extends Component {
                             <div className="card is-shady">
                                 <div className="card-image">
                                     <figure className="image is-4by3">
-                                        <img src="https://res.cloudinary.com/ameo/image/upload/v1568711475/pexels-photo-1302883_fjje0f.jpg" alt="Placeholder image" />
+                                        <img src="https://cms.nhl.bamgrid.com/images/photos/319495342/1200x630/cut.png" alt="Chicago Blackhawks" />
                                     </figure>
                                 </div>
                                 <div className="card-content">
                                     <div className="content">
-                                        <h4>Click anywhere on card to <br />expand into modal card</h4>
+                                        <h4>Chicago Blackhawks</h4>
                                         <p>Purus semper eget duis at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
                                         <span className="button is-link modal-button">Modal card</span>
                                     </div>
@@ -95,12 +90,12 @@ class Teams extends Component {
                             <div className="card is-shady">
                                 <div className="card-image">
                                     <figure className="image is-4by3">
-                                        <img src="https://source.unsplash.com/hLyd1LukQ7E" alt="butterfly image" className="modal-button" data-target="modal-image4" />
+                                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/1200px-SanJoseSharksLogo.svg.png" alt="San Jose Sharks" className="modal-button" data-target="modal-image4" />
                                     </figure>
                                 </div>
                                 <div className="card-content  modal-button" data-target="modal-card2">
                                     <div className="content">
-                                        <h4>Click anywhere on card to <br />expand into modal card - header image expands into bigger image</h4>
+                                        <h4>San Jose Sharks</h4>
                                         <p>Purus semper eget duis at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis.</p>
                                         <span className="button is-link modal-button">Modal card</span>
                                     </div>

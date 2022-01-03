@@ -40,7 +40,7 @@ class Blackhawks extends Component {
                             <div className="columns is-vcentered">
                                 <div className="column is-5">
                                     <figure className="image is-4by3">
-                                        <img src="https://picsum.photos/800/600/?random" alt="Description" />
+                                        <img src="https://cms.nhl.bamgrid.com/images/photos/319495342/1200x630/cut.png" alt="Chicago Blackhawks" />
                                     </figure>
                                 </div>
                                 <div className="column is-6 is-offset-1">

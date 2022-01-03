@@ -40,7 +40,7 @@ class Sharks extends Component {
                             <div className="columns is-vcentered">
                                 <div className="column is-5">
                                     <figure className="image is-4by3">
-                                        <img src="https://picsum.photos/800/600/?random" alt="Description" />
+                                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/1200px-SanJoseSharksLogo.svg.png" alt='San Jose Sharks' />
                                     </figure>
                                 </div>
                                 <div className="column is-6 is-offset-1">

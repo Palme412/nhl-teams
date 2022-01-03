@@ -40,7 +40,7 @@ class Wild extends Component {
                             <div className="columns is-vcentered">
                                 <div className="column is-5">
                                     <figure className="image is-4by3">
-                                        <img src="https://picsum.photos/800/600/?random" alt="Description" />
+                                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Minnesota_Wild.svg/1200px-Minnesota_Wild.svg.png" alt="Minnesota Wild" />
                                     </figure>
                                 </div>
                                 <div className="column is-6 is-offset-1">
