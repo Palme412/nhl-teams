@@ -45,7 +45,7 @@ class Capitals extends Component {
                                 </div>
                                 <div className="column is-6 is-offset-1">
                                     <h1 className="title is-2">
-                                        Superhero Scaffolding
+                                        Washington Capitals
                                     </h1>
                                     <h2 className="subtitle is-4">
                                         Let this cover page describe a product or service.

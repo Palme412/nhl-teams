@@ -9,7 +9,7 @@ class Teams extends Component {
                     <div className="hero-body">
                         <div className="container has-text-centered">
                             <p className="title">
-                                Modal Cards
+                                NHL Teams
                             </p>
                             <p className="subtitle">
                                 Subtitle

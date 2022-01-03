@@ -22,11 +22,11 @@ class App extends Component {
         <div>
           <Routes>
             <Route exact path='/' element={<Teams />} />
-            <Route path='/capitals' elemtent={<Capitals />} />
-            <Route path='/wings' elemtent={<Wings />} />
-            <Route path='/wild' elemtent={<Wild />} />
-            <Route path='/sharks' elemtent={<Sharks />} />
-            <Route path='/blackhawks' elemtent={<Blackhawks />} />
+            <Route path='/capitals' element={<Capitals />} />
+            <Route path='/wings' element={<Wings />} />
+            <Route path='/wild' element={<Wild />} />
+            <Route path='/sharks' element={<Sharks />} />
+            <Route path='/blackhawks' element={<Blackhawks />} />
           </Routes>
         </div>
       </Router>
