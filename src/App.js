@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {
   BrowserRouter as Router,
@@ -9,11 +8,12 @@ import {
 } from 'react-router-dom';
 
 //Components
-import Capitals from "../components/Capitals";
-import Wings from "../components/Wings";
-import Blackhawks from "../components/Blackhawks";
-import Sharks from "../components/Sharks";
-import Wild from "../components/Wild";
+import Capitals from "./components/Capitals";
+import Wings from "./components/Wings";
+import Blackhawks from "./components/Blackhawks";
+import Sharks from "./components/Sharks";
+import Wild from "./components/Wild";
+import Teams from "./components/Teams";
 
 class App extends Component {
   render() {
